@@ -4,4 +4,4 @@
  This portal has 3 apps in it:</p>
  1.Admin1 (Admin of portal)</p>
  2.News (Reporter)</p>
- 3.User (Get News)</p>
+ 3.User (View Published News)</p>
